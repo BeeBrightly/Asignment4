@@ -1,0 +1,80 @@
+body {
+  background-image: url("../Assignment4/images/Backround.jpg")
+}
+
+.title {
+  padding: 10px;
+  margin: auto;
+  background-color: rgb(188, 232, 247);
+  border: solid black;
+  text-align: center;
+  font-size: 20px;
+  border-radius: 25px;
+}
+
+img {
+  max-width: 80px;
+  max-height: 80px;
+}
+
+.btn {
+  padding: 3px;
+  margin: 1px;
+  opacity: 0px;
+}
+
+#description {
+  padding: 30px;
+  margin-top: 5px;
+  background-color: rgb(173, 215, 231);
+  border: solid rgb(177, 110, 154);
+  text-align: center;
+  font-weight: bold;
+  font-size: 16px;
+  border-radius: 15px;
+}
+
+#randomnumber {
+  padding: 10px;
+  margin-top: 10px;
+  background-color: rgb(161, 233, 233);
+  border: solid black;
+  text-align: center;
+  font-size: 27px;
+  border-radius: 25px;
+}
+
+#winslosses {
+  padding: 10px;
+  margin-top: 10px;
+  background-color: lightcyan;
+  border: solid black;
+  text-align: center;
+  font-size: 14px;
+  border-radius: 25px;
+}
+
+#gembuttons {
+  padding: 10px;
+  margin-top: 10px;
+  background-color: rgb(216, 137, 226);
+  border: solid rgb(196, 113, 185);
+  text-align: center;
+  font-size: 14px;
+  border-radius: 25px;
+}
+
+#totalscore {
+  padding: 10px;
+  margin-top: 10px;
+  background-color: cyan;
+  border: solid rgb(230, 112, 214);
+  text-align: center;
+  font-size: 25px;
+  border-radius: 25px;
+}
+
+.crystal-image {
+  width: 300px;
+  height: 300px;
+}
